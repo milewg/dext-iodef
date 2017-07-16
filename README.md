@@ -7,11 +7,11 @@ The extension enables the system to output alerts in IODEF.
 
 ## Files in this repository
 
-- dext_iodef.rb
+### dext_iodef.rb
 
 Main class file for DAEDALUS extention.
 
-- dext_iodef_run.rb
+### dext_iodef_run.rb
 
 Example script to make a sample alert using the main class.
 
